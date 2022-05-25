@@ -1,6 +1,16 @@
 .App {
   text-align: center;
 }
+.fr{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: flex-end;
+  gap: 1em;
+  flex-wrap: wrap;
+}
+  
+
 
 .App-logo {
   height: 40vmin;
